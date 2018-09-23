@@ -1,2 +1,4 @@
-# monty_hall_problem
-Slides and Kotlin Monte Carlo Simulation of Monty Hall Problem
+# Monty Hall Problem
+## Monte Carlo Simulation, Slides, and Intuition
+
+![](https://i.imgur.com/eQt0Tuq.png)
